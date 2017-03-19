@@ -8,7 +8,7 @@ A awesome checklist of free Udacity courses for front-end developers. Just fork 
 - [x] [Javascript Basics](https://br.udacity.com/course/javascript-basics--ud804)
 - [x] [HTML5 Canvas](https://br.udacity.com/course/html5-canvas--ud292)
 - [x] [Writing READMEs](https://br.udacity.com/course/writing-readmes--ud777)
-- [ ] [How to use Git and Github](https://br.udacity.com/course/how-to-use-git-and-github--ud775/)
+- [x] [How to use Git and Github](https://br.udacity.com/course/how-to-use-git-and-github--ud775/)
 - [ ] [Intro to Computer Science](https://br.udacity.com/course/intro-to-computer-science--cs101)
 
 ## Jedi Knight
