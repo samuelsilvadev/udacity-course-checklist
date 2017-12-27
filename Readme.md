@@ -14,7 +14,7 @@ A awesome checklist of free Udacity courses for front-end developers. Just fork 
 ## Jedi Knight
 
 - [ ] [Intro to jQuery](https://br.udacity.com/course/intro-to-jquery--ud245)
-- [ ] [Intro to AJAX](https://br.udacity.com/course/intro-to-ajax--ud110)
+- [x] [Intro to AJAX](https://br.udacity.com/course/intro-to-ajax--ud110)
 - [ ] [Javascript Testing](https://br.udacity.com/course/javascript-testing--ud549)
 - [ ] [Object Oriented Javascript](https://br.udacity.com/course/object-oriented-javascript--ud015)
 - [ ] [Responsive Web Design Fundamentals](https://br.udacity.com/course/responsive-web-design-fundamentals--ud893)
